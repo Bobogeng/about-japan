@@ -1,3 +1,10 @@
+---
+aliases:
+  - "[[Kana dan Mora|Ucapan Bahasa Jepang]]"
+tags:
+  - ucapan-bahasa-jepang
+sub-bagian: 1
+---
 Aksara bahasa Jepang terdapat 3 jenis, yaitu *Hiragana* (平仮名), *Katakana* (片仮名), dan *Kanji* (漢字). *Hiragana* dan *Katakana* adalah aksara silabis sedangkan *Kanji* adalah ideogram yang menunjukkan bunyi sekaligus artinya. Bahasa Jepang biasanya ditulis bercampur dengan *Hiragana*, *Katakana*, dan *Kanji*.
 
 > [!NOTE] Contoh Penulisan
